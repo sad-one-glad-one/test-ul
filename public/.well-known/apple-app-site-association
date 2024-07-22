@@ -1,0 +1,18 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ZS9R46Z4PS.ru.rpo.argonizer",
+                "paths": [
+                    "*", "/*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "ZS9R46Z4PS.ru.rpo.argonizer"
+        ]
+    }
+}
